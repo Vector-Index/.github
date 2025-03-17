@@ -15,7 +15,7 @@ At **Vector Index**, we push the boundaries of **AI, cloud computing, and real-t
 💡 **Innovation-First Mindset** – We lead with a **deep passion for AI, automation, and cloud-native development**.  
 
 🔗 Learn more: [vectorindex.cloud](https://vectorindex.cloud)  
-💬 **Talk to our agent now**: [Wang](https://chatgpt.com/g/g-67ccc5af94e4819182038ab4969a0ebd-wang)  
+💬 **Chat now**: [Wang](https://chatgpt.com/g/g-67ccc5af94e4819182038ab4969a0ebd-wang)  
 🐙 **GitHub**: [Vector Index](https://github.com/Vector-Index)  
 📩 **Email**: [info@vectorindex.cloud](mailto:info@vectorindex.cloud)  
 🔗 **LinkedIn**: [Vector Index](https://www.linkedin.com/company/vector-index/)  
